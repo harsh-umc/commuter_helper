@@ -6,6 +6,12 @@ Commuter Helper is a prototype mobile-based application designed to help student
 ## Project Purpose
 This project is developed as part of a software engineering course to demonstrate requirements gathering, system architecture design, project planning, and testing strategies.
 
+## How to Run
+1. Install Python 3
+2. Run(Terminal): python commuter_helper.py
+
+## Data is Stored in commuter_data.json
+
 ## Features (Prototype)
 - User registration for drivers and commuters
 - Profile creation with basic information
